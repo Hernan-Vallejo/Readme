@@ -1,4 +1,4 @@
-- Hola, soy @Hernan2000 
+- Hola, soy Hernan Vallejo
 - Me dedico al Testing de Software
 - Estoy estudiando Python
 - Me gustaría colaborar en proyectos de automatización
