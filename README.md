@@ -1,7 +1,5 @@
 - Hola, soy Hernan Vallejo
 - Me dedico al Testing de Software
-- Estoy estudiando Python
-- Me gustaría colaborar en proyectos de automatización
 - Mi currículum https://www.linkedin.com/in/hernan-vallejo/
 
 <!---
